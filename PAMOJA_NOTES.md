@@ -26,4 +26,4 @@ These are market prices, not farm-gate prices, and they are not adjusted for inf
 
 ---
 
-*Data: World Food Programme (WFP) market price data for Kenya, published on the Humanitarian Data Exchange (HDX), https://data.humdata.org/. Full analysis in `analysis.ipynb`.*
+*Data: World Food Programme (WFP) market price data for Kenya, published on the Humanitarian Data Exchange (HDX), https://data.humdata.org/. Full analysis in `foodprices_analysis.ipynb`.*
