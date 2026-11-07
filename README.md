@@ -4,7 +4,7 @@ An analysis of monthly food prices across Kenyan markets from **January 2006 to 
 
 All work is in [analysis.ipynb](analysis.ipynb), using [data/food-prices-kenya.csv](data/food-prices-kenya.csv).
 
-**The short note for Pamoja, with advice for farmers and county officers, is in [PAMOJA_NOTE.md](PAMOJA_NOTE.md).**
+**The short note for Pamoja, with advice for farmers and county officers, is in [PAMOJA_NOTE.md](C:\Users\USER\OneDrive\Documents\FoodPrices\PAMOJA_NOTES.md).**
 
 ---
 
