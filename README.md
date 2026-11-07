@@ -2,9 +2,9 @@
 
 An analysis of monthly food prices across Kenyan markets from **January 2006 to December 2019**. It focuses on **wholesale maize**: how prices moved year to year, how they rise and fall through the seasons, and whether a farmer who stores maize after harvest usually earns more by selling later.
 
-All work is in [foodpricesanalysis.ipynb](foodprices_analysis.ipynb), using [data/food-prices-kenya.csv](data/food-prices-kenya.csv).
+All work is in [notebook/foodprices_analysis.ipynb](notebook/foodprices_analysis.ipynb), using [data/food-prices-kenya.csv](data/food-prices-kenya.csv).
 
-**The short note for Pamoja, with advice for farmers and county officers, is in [PAMOJA_NOTE.md](C:\Users\USER\OneDrive\Documents\FoodPrices\PAMOJA_NOTES.md).**
+**The short note for Pamoja, with advice for farmers and county officers, is in [PAMOJA_NOTE.md](PAMOJA_NOTES,md).**
 
 ---
 
